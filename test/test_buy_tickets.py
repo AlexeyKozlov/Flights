@@ -14,17 +14,17 @@ def app(request):
 
 
 def test_buy_tickets(app):
-    app.login(username="alexey", password="lolo")
+    app.session.login(username="alexey", password="lolo")
     app.fill_flight_details()
     app.choose_flight()
     app.fill_reservation(Flight(name="Alexey", lastname="Kozlov", name2="Alexey's", lastname2="Wife"))
-    app.click_purchase()
+    app.session.logout()
 
 
 def test_buy_tickets_2(app):
-    app.login(username="alexey", password="lolo")
+    app.session.login(username="alexey", password="lolo")
     app.fill_flight_details()
     app.choose_flight()
     app.fill_reservation(Flight(name="Vania", lastname="Taiwania", name2="Zozo", lastname2="Koleso"))
-    app.click_purchase()
+    app.session.logout()
 

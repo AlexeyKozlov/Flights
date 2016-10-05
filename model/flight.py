@@ -7,3 +7,5 @@ class Flight:
         self.name2 = name2
         self.lastname2 = lastname2
 
+
+

@@ -1,16 +1,13 @@
 from selenium.webdriver.firefox.webdriver import WebDriver
-
+from fixture.session import SessionHelper
 
 class Application:
 
     def __init__(self):
         self.wd = WebDriver()
         self.wd.implicitly_wait(60)
+        self.session = SessionHelper(self)
 
-    def click_purchase(self):
-        wd = self.wd
-        wd.find_element_by_xpath(
-            "//div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr[1]/td[2]/table/tbody/tr[7]/td/table/tbody/tr/td[2]/a/img").click()
 
     def fill_reservation(self, flight):
         wd = self.wd
@@ -130,16 +127,6 @@ class Application:
             wd.find_element_by_xpath(
                 "//div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/select//option[3]").click()
 
-    def login(self, username, password):
-        wd = self.wd
-        self.open_home_page()
-        wd.find_element_by_name("userName").click()
-        wd.find_element_by_name("userName").clear()
-        wd.find_element_by_name("userName").send_keys(username)
-        wd.find_element_by_name("password").click()
-        wd.find_element_by_name("password").clear()
-        wd.find_element_by_name("password").send_keys(password)
-        wd.find_element_by_name("login").click()
 
     def open_home_page(self):
         wd = self.wd
