@@ -20,23 +20,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_buy_tickets.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_buy_tickets.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_buy_tickets.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="55" column="73" selection-start-line="55" selection-start-column="73" selection-end-line="55" selection-end-column="73" />
+            <state relative-caret-position="333">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
-                <element signature="e#24#82#0" expanded="true" />
+                <element signature="e#25#38#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flight.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flight.py">
+      <file leaf-file-name="application.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="2533">
+              <caret line="149" column="22" selection-start-line="149" selection-start-column="22" selection-end-line="149" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -51,6 +51,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -59,8 +62,10 @@
         <option value="$PROJECT_DIR$/point.py" />
         <option value="$PROJECT_DIR$/geometry.py" />
         <option value="$PROJECT_DIR$/geom2d/__init__.py" />
-        <option value="$PROJECT_DIR$/test_buy_tickets.py" />
         <option value="$PROJECT_DIR$/flight.py" />
+        <option value="$PROJECT_DIR$/from_IDE.py" />
+        <option value="$PROJECT_DIR$/application.py" />
+        <option value="$PROJECT_DIR$/test_buy_tickets.py" />
       </list>
     </option>
   </component>
@@ -96,6 +101,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -116,7 +122,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,23 +135,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python tests.py.test in test_buy_tickets.py">
-    <configuration default="false" name="perc" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Flights" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/perc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="geometry" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,6 +215,30 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flight.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test in from_IDE.py" type="tests" factoryName="py.test" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Flights" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/from_IDE.py" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -364,19 +376,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.perc" />
-      <item index="1" class="java.lang.String" itemvalue="Python.geometry" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in buy_tickets.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_buy_tickets.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python.flight" />
+      <item index="0" class="java.lang.String" itemvalue="Python.geometry" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in buy_tickets.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_buy_tickets.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python.flight" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in from_IDE.py" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_buy_tickets.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python.flight" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in buy_tickets.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python.geometry" />
-        <item index="4" class="java.lang.String" itemvalue="Python.perc" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in from_IDE.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python.flight" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in buy_tickets.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python.geometry" />
       </list>
     </recent_temporary>
   </component>
@@ -397,48 +409,47 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.01 at 16h 26m 09s.xml">
+    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.02 at 21h 58m 39s.xml">
       <configuration name="py.test in test_buy_tickets.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.01 at 16h 26m 37s.xml">
+    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.02 at 22h 03m 28s.xml">
       <configuration name="py.test in test_buy_tickets.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.01 at 16h 34m 17s.xml">
+    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.02 at 22h 05m 25s.xml">
       <configuration name="py.test in test_buy_tickets.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.01 at 16h 51m 17s.xml">
+    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.04 at 12h 51m 14s.xml">
       <configuration name="py.test in test_buy_tickets.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.01 at 17h 06m 15s.xml">
+    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.04 at 13h 06m 20s.xml">
       <configuration name="py.test in test_buy_tickets.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.01 at 17h 11m 07s.xml">
+    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.04 at 13h 13m 46s.xml">
       <configuration name="py.test in test_buy_tickets.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.01 at 17h 20m 02s.xml">
+    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.04 at 13h 15m 16s.xml">
       <configuration name="py.test in test_buy_tickets.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.01 at 17h 23m 21s.xml">
+    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.05 at 12h 45m 48s.xml">
       <configuration name="py.test in test_buy_tickets.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.01 at 17h 25m 25s.xml">
+    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.05 at 13h 01m 19s.xml">
       <configuration name="py.test in test_buy_tickets.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.01 at 17h 26m 22s.xml">
+    <history-entry file="py_test_in_test_buy_tickets_py - 2016.10.05 at 13h 03m 14s.xml">
       <configuration name="py.test in test_buy_tickets.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1364" height="726" extended-state="1" />
+    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25222552" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -448,6 +459,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -467,58 +479,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/funtions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/perc.py">
+    <entry file="file://$PROJECT_DIR$/test_buy_tickets.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#25#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/funtions.py">
+    <entry file="file://$PROJECT_DIR$/from_IDE.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/perc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/geom2d/point.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/geom2d/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/geometry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+        <state relative-caret-position="544">
+          <caret line="32" column="81" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="81" />
           <folding />
         </state>
       </provider>
@@ -533,11 +507,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_buy_tickets.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="55" column="73" selection-start-line="55" selection-start-column="73" selection-end-line="55" selection-end-column="73" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#24#82#0" expanded="true" />
+            <element signature="e#25#38#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funtions.py" />
+    <entry file="file://$PROJECT_DIR$/perc.py" />
+    <entry file="file://$PROJECT_DIR$/funtions.py" />
+    <entry file="file://$PROJECT_DIR$/perc.py" />
+    <entry file="file://$PROJECT_DIR$/geom2d/point.py" />
+    <entry file="file://$PROJECT_DIR$/geom2d/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/geometry.py" />
+    <entry file="file://$PROJECT_DIR$/from_IDE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="81" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_buy_tickets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="149" column="22" selection-start-line="149" selection-start-column="22" selection-end-line="149" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
