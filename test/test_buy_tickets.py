@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 
 import pytest
-from flight import Flight
-from application import Application
+
+from fixture.application import Application
+from model.flight import Flight
 
 
 @pytest.fixture
